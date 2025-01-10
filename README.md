@@ -27,10 +27,6 @@ The dataset used for this project contains information about houses, including f
 - Trained a Linear Regression model using the training data.
 - Evaluated the model's performance using metrics like Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R-squared.
 
-## Results
-- Achieved a [mention R-squared value or other key metrics] on the test dataset.
-- [Add any specific insights gained from the data or the model.]
-
 ## Libraries Used
 - Python
 - Pandas
